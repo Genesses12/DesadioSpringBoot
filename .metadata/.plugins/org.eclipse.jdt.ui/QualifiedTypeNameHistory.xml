@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Strategy.ComportamentoNormal"/>
+    <fullyQualifiedTypeName name="Strategy.Comportamento"/>
+    <fullyQualifiedTypeName name="Strategy.ComportamentoDefensivo"/>
+    <fullyQualifiedTypeName name="Strategy.ComportamentoAgressivo"/>
+    <fullyQualifiedTypeName name="Strategy.Robo"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="subsistema1.crm.CrmService"/>
+    <fullyQualifiedTypeName name="subsistema1.cep.CepApi"/>
+    <fullyQualifiedTypeName name="facade.Facade"/>
+</qualifiedTypeNameHistroy>
